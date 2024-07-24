@@ -1,4 +1,4 @@
-# Pallavi Khabale
+# Education
 
 ## Education
   ### Clg 1
@@ -11,3 +11,12 @@
 # Work Experience
 
 # Skills
+##  
+## Tools:
+Python, SQL, AWS, Snowflake, MATLAB
+
+
+## Downloads:
+ [Resume] 
+## Contact Me:
+
