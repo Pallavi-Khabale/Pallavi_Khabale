@@ -1,1 +1,7 @@
-# Pallavi_Khabale
+# Pallavi Khabale
+
+# Education
+
+# Work Experience
+
+# Skills
