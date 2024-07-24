@@ -26,6 +26,9 @@ Relevant Coursework: Data Analysis and Interpretation, Database Management Syste
 - Automated the process of updating the Product Master Data in SAP IBP to capture real time data, resulting in a 28% reduction of manual efforts time and master data inconsistencies.
 - Designed CPI-DS interfaces, to remove inactive materials (13.789 each material plant combinations out of 161.383) in S4 from IBP, resulting in reduced redundant stocks and accurate component level planning.
 
+## Projects 
+### Project1
+
 
 ## Skills  
 **Technical:** SAP Cloud Platform Integration for Data Services (SAP CPI-DS/SAP CI-DS), SAP Integrated Business Planning (SAP IBP), SAP BASIS, SQL, R, Java, HTML, CSS, Canva.
