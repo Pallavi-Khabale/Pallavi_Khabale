@@ -1,9 +1,11 @@
 ## Education
 **University of Washington – Michael G. Foster School of Business - Seattle, WA                                                     (_Jun 2024 - Jun 2025_)**
+
 *Master of Supply Chain Management*		       	                                                                  
 Relevant Coursework: Finance and Accounting, Forecasting, Inventory Management, Operations Management, Supply Chain and Data Analytics, Spreadsheet Modeling, Competitive Strategy, Building Effective Teams etc.
 
 **K.J. Somaiya College of Engineering, Vidyavihar, Mumbai                                                                           (_Dec 2020 - Oct 2020_)**
+
 *Bachelor of Technology in Electronics and Telecommunication with Distinction*                               
 Relevant Coursework: Data Analysis and Interpretation, Database Management System, Big Data Analytics, etc.
 
@@ -31,6 +33,13 @@ Relevant Coursework: Data Analysis and Interpretation, Database Management Syste
 **Tools:** Advanced Excel, Power BI, Tableau, Word, PowerPoint, Azure, Linux, Windows, ServiceNow.
 
 ## Certifications:
+- MITx MicroMasters SC1x: Supply Chain Fundamentals from edX offered by MIT, December 2023.
+- MITx MicroMasters SC0x: Supply Chain Analytics from edX offered by MIT, December 2023.
+- Supply Chain Management Specialization from Coursera offered by Rutgers University, October 2023.
+- Supply Chain Planning from Coursera offered by University of California, Irvine, August 2023.
+- AZ-900: Microsoft Certified: Azure Fundamentals, issued by Microsoft, December 2022.
+- Google IT Support Specialization from Coursera, August 2020.
+
 
 ## Downloads:
  [Resume] 
