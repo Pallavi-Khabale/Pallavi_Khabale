@@ -47,4 +47,9 @@ Relevant Coursework: Data Analysis and Interpretation, Database Management Syste
 ## Downloads:
  [Resume] 
 ## Contact Me:
+**Address:** Seattle, WA 98105.
+
+**Mail:** pallavikhabale40@gmail.com
+
+**Contact:** (206) 261-9256
 
